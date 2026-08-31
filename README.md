@@ -1,0 +1,2 @@
+# Jayhda_INFO4670_Fall2026
+This repository is for INFO 4670 at UNT for the Fall 2026 semester. 
